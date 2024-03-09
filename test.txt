@@ -1,4 +1,6 @@
 this is a test file for merge conflicts
 line1
 line2
-
+3
+4
+5
